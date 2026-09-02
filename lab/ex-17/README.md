@@ -43,7 +43,8 @@ void main()
 **OUTPUT:**
 
 
-![Uploading image.png…]()
+
+<img width="941" height="420" alt="image" src="https://github.com/user-attachments/assets/1f6e5e10-c357-47cf-b298-1ffdb2d1021b" />
 
 
 **RESULT:**
